@@ -2,7 +2,7 @@
 
 1.Download this project
 
-2.Run npm install to download the required modules
+2.Run npm install to download the required modules`
 
 3.Install Serverless (https://serverless.com/)
 
