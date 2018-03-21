@@ -1,0 +1,6 @@
+{
+	"name": "minidropbox",
+	"dependencies": {
+		"aws-sdk": "^2.212.1"
+	}
+}
