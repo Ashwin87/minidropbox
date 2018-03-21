@@ -6,7 +6,7 @@
 
 3.Install Serverless (https://serverless.com/)
 
-4.Install AWS CLI (https://aws.amazon.com/cli/) and configure it with your account
+4.Install AWS CLI (https://aws.amazon.com/cli/) and configure it with your account.
 
 5. Create S3 Bucket through in AWS S3 services.
 
