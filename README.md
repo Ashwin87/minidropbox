@@ -1,10 +1,10 @@
 # minidropbox
 
-1. Download this project
+1. Download this project.
 
-2. Run npm install to download the required modules`
+2. Run npm install to download the required modules.`
 
-3. Install Serverless (https://serverless.com/)
+3. Install Serverless (https://serverless.com/).
 
 4. Install AWS CLI (https://aws.amazon.com/cli/) and configure it with your account.
 
